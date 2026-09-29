@@ -184,3 +184,4 @@ The published container image is then used to run the application in Render.
 I am building this project incrementally. The goal is not to add technologies simply for the sake of complexity, but to introduce them when they solve a clear engineering problem.
 
 The first version uses an embedded H2 database so the application can run without external database infrastructure. The project can be extended with more production-oriented infrastructure as it evolves.
+Development Note: AI-assisted tools were used for guidance and troubleshooting during development.
