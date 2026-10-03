@@ -16,7 +16,8 @@ This project is independent and does not contain proprietary code or implementat
 The application is deployed as a Docker container in the cloud.
 
 **Swagger UI:**  
-`https://transaction-decision-engine-latest.onrender.com/swagger-ui.html`
+
+`https://transaction-decision-engine-latest-1.onrender.com/swagger-ui/index.html#/transaction-controller/decide`
 
 **Health Check:**  
 `https://transaction-decision-engine-latest.onrender.com/actuator/health`
